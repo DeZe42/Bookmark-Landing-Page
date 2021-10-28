@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "bookmark-landing-page-57c97": {
+      "hosting": {
+        "landing-pages": [
+          "bookmark-landing-page-57c97"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "bookmark-landing-page-57c97"
+  }
+}
