@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "bookmark-landing-page-2feec",
     "public": "dist",
     "ignore": [
       "firebase.json",
